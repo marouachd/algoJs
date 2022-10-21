@@ -1,0 +1,25 @@
+clik dte run code
+
+node program.js "Maroua SOLTANI"
+doule tild
+math.floor()
+parseInt()
+
+create >>>> formulaire 
+il me manque les données !!
+les liens foctionnels
+liste des champs (texte, date...)
+libellé 
+type de données 
+longeur
+validation de donnée 
+comment ca va se comporter en cas d'chec ou validation de formulaire 
+
+thierry villepreux
+lea savage
+frank marshall
+suivre le grp SG
+
+
+linkedin et Github 
+ 
